@@ -23,7 +23,7 @@ A simple yet smart Tic-Tac-Toe game built using **Python** and **Tkinter GUI**, 
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/Tic_Tac_Toe_AI.py.git
+git clone https://github.com/saipraneeth314/CodeClause_Internship.git
 cd Tic_Tac_Toe
 ```
 
