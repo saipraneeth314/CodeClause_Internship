@@ -6,8 +6,7 @@ A simple yet smart Tic-Tac-Toe game built using **Python** and **Tkinter GUI**, 
 
 ## Screenshot
 
-> *(Add a screenshot of the game window here after running the app)*  
-> ![Game Screenshot](screenshot.png)
+> ![Game Screenshot](Screenshot.png)
 
 ---
 
